@@ -18,3 +18,5 @@ And of course, I love fry my brain in front of my computer even if i don't under
 
 # What I learned:
 Git and GitHub allow you to keep track of changes made to your script and add explanations to help you remember them. This also allows you to share your work with others and collaborate. The main commands used are commit message, commit to..., push, create pull request, and merge commit.
+
+I spent about 4 hours on this work
