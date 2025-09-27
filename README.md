@@ -12,3 +12,7 @@ I'm looking forward to learning more about Git and GitHub.
 # Presentation of my motivation to learn Python, R and Git.
 What motivates me to learn Python, R, and Git , first is to be as independent as possible with these software programs. Then i find that it's an advantage on a CV or when finding a job. For Git, I'm not a coding professional, so it's important to be able to share my work and benefit from the advice and help of others.
 And of course, I love fry my brain in front of my computer even if i don't understand what i do.
+
+# Add image of my computer
+![My Computer](image/scatterplot-sanu.png)
+
